@@ -1,3 +1,4 @@
+
 # ChatApp-Springboot
 
 
@@ -71,6 +72,4 @@ Using Maven (Terminal):
 ./mvnw spring-boot:run
 ```
 Or run the main class: ChatAppApplication.java inside Eclipse.
-
-
 
